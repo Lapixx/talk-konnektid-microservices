@@ -1,0 +1,22 @@
+{
+  "name": "talks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "cleaver index.md --output index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lapixx/talk-konnektid-microservices.git"
+  },
+  "author": "Tijn Kersjes <tijn@divbyzero.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lapixx/talk-konnektid-microservices/issues"
+  },
+  "homepage": "https://github.com/Lapixx/talk-konnektid-microservices#readme",
+  "dependencies": {
+    "cleaver": "^0.8.2"
+  }
+}
