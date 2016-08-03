@@ -1,7 +1,7 @@
 title: "Konnektid: Beyond"
 controls: false
 progress: true
-theme: ../cleaver-theme-konnektid
+theme: Lapixx/cleaver-theme-konnektid
 
 ---
 
